@@ -40,3 +40,5 @@ python -m unittest -v test_network
 ```
 
 구매/건설/통행료, 파산, 여행/무인도, JSON 프레임 분할, TCP 연결과 턴 동기화, 연결 종료를 검사합니다.
+
+커밋 및 푸시 테스트
