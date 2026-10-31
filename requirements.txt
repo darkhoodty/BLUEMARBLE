@@ -1,0 +1,1 @@
+# No pip dependencies. Uses Python standard library and bundled Tcl/Tk.
